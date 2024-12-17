@@ -1,4 +1,4 @@
-name := "swe-1234567t"
+name := "swe-2355081t"
 version := "1.2.8"
 
 scalaVersion := "2.12.18"
