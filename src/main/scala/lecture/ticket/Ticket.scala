@@ -6,7 +6,7 @@ abstract class Tree {
 }
 
 case class Leaf(n: Int) extends Tree {
-  def value = ???
+  def value = n.toString
   override def toString = ???
 }
 
